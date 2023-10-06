@@ -2,3 +2,4 @@
 ls -la
 ls -la ..
 ls -la /boot
+file /tmp/iamafile
