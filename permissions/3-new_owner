@@ -1,2 +1,2 @@
 #!/bin/bash
- echo "Usage: $0 <hello> <new_betty>"
+ sudo chown  [hello]:[betty] file(s)
